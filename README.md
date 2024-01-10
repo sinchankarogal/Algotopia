@@ -24,9 +24,9 @@ between the two.
 
 ## CITY NAME:
 
-The name of the city is  ALGOTOPIA.
+The name of the city is  ALGOTOPIA. <br>
 
-It is a city inspired by Amsterdam and Matheran and made using the concepts of DSA.
+It is a city inspired by Amsterdam and Matheran and made using the concepts of DSA.<br>
 
 Algotopia is a fictional city that is built using the concepts and principles of Data Structures and Algorithms (DSA). 
 The city is designed to showcase how DSA can be applied in real-world scenarios to solve various problems and challenges. 
@@ -34,62 +34,62 @@ It is built to demonstrate how DSA can be used to create efficient, scalable, an
 It highlights the importance of understanding and applying these concepts in various fields such as computer science, engineering, 
 finance, and healthcare.
 
-
+<br>
 ## Majorly the Data structures used for implementation are:
-1.Array
-2.Stacks
-3.Queues
-4.Graphs
-5.BST
-6.AVL tree
-7.Hash tables
-8.Linked list
+1.Array<br>
+2.Stacks <br>
+3.Queues <br>
+4.Graphs <br>
+5.BST <br>
+6.AVL tree <br>
+7.Hash tables <br>
+8.Linked list <br>
 
 
 
 ## BRIEF IDEA:
---> Each node in the graph represents a specific location in the city.
-These locations might include residential areas, commercial areas, parks, water bodies, etc.
-LOCATION TYPES:
-0: Residential area
-1: Commercial area
-2: Park
-3: River/Lake
-4: Museum
-5: University/College
-6: Hospital
-7: Police station
-8: Fire station
-9: Train station
-10: Bus station
+--> Each node in the graph represents a specific location in the city. <br>
+These locations might include residential areas, commercial areas, parks, water bodies, etc. <br>
+LOCATION TYPES: <br>
+0: Residential area <br>
+1: Commercial area <br>
+2: Park <br>
+3: River/Lake <br>
+4: Museum <br>
+5: University/College <br>
+6: Hospital <br>
+7: Police station <br>
+8: Fire station <br>
+9: Train station <br>
+10: Bus station <br>
 
 
 
 ### There are 2 weights on each edge in the graph.
-One is the distance between the 2 places in kilometres.
-Second weight is the mode of transportation available between the 2 places.
-(1=walking, 2=cycling, 3=public transport, 4=car)
+One is the distance between the 2 places in kilometres. <br>
+Second weight is the mode of transportation available between the 2 places. <br>
+(1=walking, 2=cycling, 3=public transport, 4=car) <br>
 
 
 
 ## FUNCTIONALITIES IMPLEMENTED :
 
 
-1.DFS/BFS to traverse the graph.
-DS used : Graphs
-Algorithm used : DFS
-Time complexity: O(V+E) ,
-V: number of vertices
-E: number of edges.
+1.DFS/BFS to traverse the graph. <br>
+DS used : Graphs <br>
+Algorithm used : DFS <br>
+Time complexity: O(V+E) , <br>
+V: number of vertices <br>
+E: number of edges. <br>
 
 
 
-2.Dijkstra's can be used to find the shortest path from user given source to all other locations.
-DS used : Graphs
-Algorithm : Dijkstra's Algorithm using Arrays
-Time complexity: O(Elog(V))
-V: number of vertices
-E: number of edges.
+2.Dijkstra's can be used to find the shortest path from user given source to all other locations. <br>
+DS used : Graphs <br>
+Algorithm : Dijkstra's Algorithm using Arrays <br>
+Time complexity: O(Elog(V)) <br>
+V: number of vertices <br>
+E: number of edges. <br>
 
 
 
